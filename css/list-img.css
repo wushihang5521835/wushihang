@@ -1,0 +1,15 @@
+.list-img {
+  padding: 55px 0 58px;
+}
+.thumbnail h5 {
+  height: 58px;
+  line-height: 58px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  color: #666;
+}
+.list-img .row .col-sm-6 {
+  border-bottom: 1px dashed #dcdcdc;
+  margin-bottom: 30px;
+}

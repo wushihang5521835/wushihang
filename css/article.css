@@ -1,0 +1,27 @@
+.article {
+  background: #fff;
+  margin: 55px 0 88px;
+}
+.article_detail {
+  padding: 40px 40px 80px;
+}
+.article .newsTitleBox {
+  border-bottom: 1px solid #e1e1e1;
+  padding-bottom: 20px;
+}
+.article .newsTitleBox h3 {
+  line-height: 36px;
+}
+.article .newsTitleBox p {
+  font-size: 0.13rem;
+  color: #999;
+  line-height: 24px;
+}
+.article .newsDetails {
+  padding: 20px 10px 0;
+  text-indent: 2em;
+}
+.article .newsDetails p {
+  line-height: 24px;
+  margin-top: 10px;
+}
