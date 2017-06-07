@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78c83c31-c6b8-4823-99a7-4023b2591c9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/containner.html" afterPath="$PROJECT_DIR$/containner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="78c83c31-c6b8-4823-99a7-4023b2591c9d" name="Default" comment="" />
     <ignored path="wushihang_git.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
